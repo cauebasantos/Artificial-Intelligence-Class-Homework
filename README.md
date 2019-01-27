@@ -1,2 +1,2 @@
-# Artificial-Intelligence-Class---Homework
+# Artificial Intelligence Class - Homework
 Homework for my Artificial Intelligence Class

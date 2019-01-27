@@ -1,2 +1,2 @@
-# Damas
-Jogo de Damas / Draughts Game
+# Tic Tac Toe Game
+Solve using Minimax Algorithm

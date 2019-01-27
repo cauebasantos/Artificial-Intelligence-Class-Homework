@@ -1,2 +1,2 @@
-# ST5-NASA Antenna Problem
+# NASA - ST5 Antenna Problem
 Solved using Genetic Algorithm

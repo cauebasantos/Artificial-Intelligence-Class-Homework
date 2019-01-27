@@ -1,2 +1,2 @@
-# Missionaries and Cannibals Solution
-Solved using BFS
+# Missionaries and Cannibals Problem
+Solved using BFS Algorithm

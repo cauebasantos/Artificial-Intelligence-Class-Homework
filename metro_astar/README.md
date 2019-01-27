@@ -1,2 +1,2 @@
 # Paris Metro Problem
-Solved using A*
+Solved using A* Algorithm

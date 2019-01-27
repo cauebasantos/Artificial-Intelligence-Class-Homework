@@ -1,2 +1,1 @@
-# Damas
-Jogo de Damas / Draughts Game
+# Missionaries and Cannibals Solution
